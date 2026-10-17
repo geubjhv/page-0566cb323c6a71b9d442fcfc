@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-5cb10be411.changshouzhisheng.cn/sitemap.xml
